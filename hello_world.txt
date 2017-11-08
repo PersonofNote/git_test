@@ -1,0 +1,2 @@
+This is my first file. Well, it isn't. It's my first file with the Odin project, and my first practice with the command line instead of the gitHub gui.
+I'm confused as to why "touch" creates files. But other than that, I'm making good progress.
